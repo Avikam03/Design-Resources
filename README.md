@@ -30,8 +30,8 @@
 + [Wunderstock](https://wunderstock.com/)
 
 ### Vector Images
-+[Vecteezy](https://www.vecteezy.com/)
-+[Freepik](http://www.freepik.com/)
++ [Vecteezy](https://www.vecteezy.com/)
++ [Freepik](http://www.freepik.com/)
 
 ### Illustrations
 
