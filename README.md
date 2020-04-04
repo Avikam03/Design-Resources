@@ -8,23 +8,35 @@
 + [Material Design Color Palette](https://www.materialpalette.com/)
 + [Dribble designs](https://dribbble.com/colors/66cccc)  
 
-## Fonts
+## Typography
++ [Google Fonts](https://www.google.com/fonts)
 + [Font Squirrel](https://www.fontsquirrel.com/)
 + [Sky Fonts](https://www.monotype.com/products/skyfonts)
-+ [Google Fonts](https://www.google.com/fonts)
 + [Adobe Typekit](https://typekit.com/)
++ [(Book) Practical Typography](https://practicaltypography.com/)
 
 ## Chrome Extensions
 + [ColorZilla ](https://www.colorzilla.com/) Like a color on a website? Use ColorZilla to get to know the Hex Color Code!
 + [whatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) Same but for Fonts.
 
 ## Pictures
+
+### Stock Photos
 + [Unsplash](https://unsplash.com/)
 + [Pixaby](https://pixabay.com/)
 + [Pexels](https://www.pexels.com/)
 + [Freepik](https://www.freepik.com/)
-+ [Deposite Photos](http://depositphotos.com/)
++ [Deposit Photos](http://depositphotos.com/)
 
+### Illustrations
+
++ [Humaaans Illustrations](https://www.humaaans.com/)
++ [Undraw Illustrations](https://undraw.co/illustrations)
+
+### Backgrounds
+
++ [Hero Patterns](http://www.heropatterns.com/)
++ [Cool Backgrounds](https://coolbackgrounds.io/)
 
 
 
