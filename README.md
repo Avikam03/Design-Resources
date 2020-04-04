@@ -33,6 +33,10 @@
 + [Vecteezy](https://www.vecteezy.com/)
 + [Freepik](http://www.freepik.com/)
 
+### Icons
++ [Flaticon](http://www.flaticon.com/)
++ [Material.io](https://material.io/icons/)
+
 ### Illustrations
 
 + [Humaaans Illustrations](https://www.humaaans.com/)
