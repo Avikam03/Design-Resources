@@ -23,10 +23,15 @@
 
 ### Stock Photos
 + [Unsplash](https://unsplash.com/)
-+ [Pixaby](https://pixabay.com/)
++ [Pixabay](https://pixabay.com/)
 + [Pexels](https://www.pexels.com/)
 + [Freepik](https://www.freepik.com/)
 + [Deposit Photos](http://depositphotos.com/)
++ [Wunderstock](https://wunderstock.com/)
+
+### Vector Images
++[Vecteezy](https://www.vecteezy.com/)
++[Freepik](http://www.freepik.com/)
 
 ### Illustrations
 
