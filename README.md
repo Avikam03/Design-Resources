@@ -34,6 +34,7 @@
 + [Freepik](http://www.freepik.com/)
 
 ### Icons
++ [Icons8](http://www.icons8.com/)
 + [Flaticon](http://www.flaticon.com/)
 + [Material.io](https://material.io/icons/)
 
