@@ -1,6 +1,7 @@
 # Design Resources
 
 ## Colors
++ [Coolors](https://coolors.co/)
 + [FlatUIColors](https://flatuicolors.com/)
 + [Color Hunt](https://colorhunt.co/)
 + [Brand Colors](http://brandcolors.net/)
@@ -18,6 +19,7 @@
 ## Chrome Extensions
 + [ColorZilla ](https://www.colorzilla.com/) Like a color on a website? Use ColorZilla to get to know the Hex Color Code!
 + [whatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) Same but for Fonts.
++ [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 
 ## Pictures
 
@@ -35,6 +37,7 @@
 
 ### Icons
 + [Icons8](http://www.icons8.com/)
++ [Font Awesome](https://fontawesome.com/)
 + [Flaticon](http://www.flaticon.com/)
 + [Material.io](https://material.io/icons/)
 
