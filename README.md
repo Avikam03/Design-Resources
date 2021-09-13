@@ -30,6 +30,13 @@
 + [Freepik](https://www.freepik.com/)
 + [Deposit Photos](http://depositphotos.com/)
 + [Wunderstock](https://wunderstock.com/)
++ [Burst](https://burst.shopify.com/)
++ [Reshot](https://www.reshot.com/)
++ [Picography](https://picography.co/)
++ [Picjumbo](https://picjumbo.com/)
++ [Picspree](https://picspree.com/en)
++ [Stockvault](https://www.stockvault.net/)
++ [Pikwizard](https://pikwizard.com/)
 
 ### Vector Images
 + [Vecteezy](https://www.vecteezy.com/)
