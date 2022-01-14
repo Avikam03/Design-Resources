@@ -1,5 +1,14 @@
 # Design Resources
 
+## Inspiration
++ [Behance](https://www.behance.net/)
++ [Dribbble](https://dribbble.com/)
++ [Muzli](https://muz.li/)
++ [ScreenLane](https://screenlane.com/)
++ [Checklist.design](https://www.checklist.design/)
++ [Bestwebsite.gallery](https://bestwebsite.gallery/)
++ [UI Design Daily](https://www.uidesigndaily.com/)
+
 ## Colors
 + [Coolors](https://coolors.co/)
 + [FlatUIColors](https://flatuicolors.com/)
@@ -8,6 +17,7 @@
 + [Adobe Kuler Color Wheel](https://kuler.adobe.com/create/color-wheel/)
 + [Material Design Color Palette](https://www.materialpalette.com/)
 + [Dribble designs](https://dribbble.com/colors/66cccc)  
++ [Picular (Color generation for any word)](https://picular.co/)
 
 ## Typography
 + [Google Fonts](https://www.google.com/fonts)
@@ -22,6 +32,10 @@
 + [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 
 ## Pictures
+
+### Cool Images
++ [Blobs](https://blobs.app/)
++ [Getwaves](https://getwaves.io/)
 
 ### Stock Photos
 + [Unsplash](https://unsplash.com/)
@@ -41,6 +55,7 @@
 ### Vector Images
 + [Vecteezy](https://www.vecteezy.com/)
 + [Freepik](http://www.freepik.com/)
+
 
 ### Icons
 + [Icons8](http://www.icons8.com/)
