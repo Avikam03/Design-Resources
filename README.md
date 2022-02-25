@@ -65,8 +65,13 @@
 
 ### Illustrations
 
-+ [Humaaans Illustrations](https://www.humaaans.com/)
 + [Undraw Illustrations](https://undraw.co/illustrations)
++ [Illustration Kit](https://illustrationkit.com/illustrations)
++ [Humaaans Illustrations](https://www.humaaans.com/)
++ [Open Doodles](https://www.opendoodles.com/)
++ [Draw Kit](https://drawkit.com/)
++ [Error 404](https://error404.fun/)
++ [Absurd Illustrations](https://absurd.design/)
 
 ### Backgrounds
 
