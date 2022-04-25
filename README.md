@@ -10,6 +10,7 @@
 + [UI Design Daily](https://www.uidesigndaily.com/)
 
 ## Colors
++ [Happy Hues](https://www.happyhues.co/)
 + [Coolors](https://coolors.co/)
 + [FlatUIColors](https://flatuicolors.com/)
 + [Color Hunt](https://colorhunt.co/)
@@ -20,6 +21,7 @@
 + [Picular (Color generation for any word)](https://picular.co/)
 
 ## Typography
++ [Word Mark](https://wordmark.it/)
 + [Google Fonts](https://www.google.com/fonts)
 + [Font Squirrel](https://www.fontsquirrel.com/)
 + [Sky Fonts](https://www.monotype.com/products/skyfonts)
@@ -74,7 +76,7 @@
 + [Absurd Illustrations](https://absurd.design/)
 
 ### Backgrounds
-
++ [Mesh Gradients](https://meshgradient.com/)
 + [Hero Patterns](http://www.heropatterns.com/)
 + [Cool Backgrounds](https://coolbackgrounds.io/)
 
