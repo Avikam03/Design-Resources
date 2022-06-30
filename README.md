@@ -9,7 +9,6 @@
 + [Bestwebsite.gallery](https://bestwebsite.gallery/)
 + [UI Design Daily](https://www.uidesigndaily.com/)
 
-
 ## Colors
 + [Happy Hues](https://www.happyhues.co/)
 + [Coolors](https://coolors.co/)
@@ -69,12 +68,15 @@
 ### Illustrations
 
 + [Undraw Illustrations](https://undraw.co/illustrations)
++ [Flexiple (good undraw alt)](https://flexiple.com/illustrations/single/)
 + [Illustration Kit](https://illustrationkit.com/illustrations)
 + [Humaaans Illustrations](https://www.humaaans.com/)
 + [Open Doodles](https://www.opendoodles.com/)
 + [Draw Kit](https://drawkit.com/)
 + [Error 404](https://error404.fun/)
 + [Absurd Illustrations](https://absurd.design/)
++ [Many Pixels](https://www.manypixels.co/gallery)
++ [Open Peeps](https://www.openpeeps.com/)
 
 ### Backgrounds
 + [Mesh Gradients](https://meshgradient.com/)
