@@ -29,7 +29,7 @@
 + [(Book) Practical Typography](https://practicaltypography.com/)
 
 ## Chrome Extensions
-+ [ColorZilla ](https://www.colorzilla.com/) Like a color on a website? Use ColorZilla to get to know the Hex Color Code!
++ [Colorpick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) (Or use the pre installed `Digital Color Meter` app if using a Mac)
 + [whatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) Same but for Fonts.
 + [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
 
