@@ -30,6 +30,7 @@
 + [(Book) Practical Typography](https://practicaltypography.com/)
 
 ## Chrome Extensions
++ [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) - Color picker (works outside chrome as well)
 + [Colorpick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) (Or use the pre installed `Digital Color Meter` app if using a Mac)
 + [whatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) Same but for Fonts.
 + [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
